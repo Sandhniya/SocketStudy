@@ -1,5 +1,9 @@
 # Ex.No:1a  			Study of Socket Programming
-
+```
+NAME: SANDHIYA SREE B
+ROLL NO: 212223220093
+DEPARTMENT: INFORMATION TECHNOLOGY
+```
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
